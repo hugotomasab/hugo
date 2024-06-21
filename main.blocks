@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="n0w7;/iR,g3!1NR[Fj}," x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="8EX)OC*Pn8HOV+wxxT=R"><value name="text"><shadow type="text" id="9o7:,{{()}oPlLhl;f3j"><field name="TEXT"> My name is Hugo</field></shadow></value><next><block type="basic_show_icon" id="V*]f3pNHBCgwg!(5%?~q"><field name="i">IconNames.StickFigure</field><next><block type="device_print_message" id="RS@w6F*[5wH1nt:iShB:"><value name="text"><shadow type="text" id="0[Z.@xzCP88B5S_4T]SX"><field name="TEXT">I  am 7.5 years old</field></shadow></value><next><block type="basic_show_icon" id=",Y]x[jX(@usYd[ZpgxL~"><field name="i">IconNames.Skull</field></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="fz:}zI=Q95AwxVgEabGG" x="56" y="390"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="^q;8KntXO}RLOd*vdFxF"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="m%Q_;_l0c8TRkaL6dcV_"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="Wy~$D+Br.^V}z+~FVs8|"><field name="LEDS">`
+        . # # . . 
+        # . . . . 
+        # . # # . 
+        # . . # . 
+        . # # . .
+        `</field><next><block type="device_show_leds" id="`!t$pIf3#tg=6HEDjhXe"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # # # .
+        `</field></block></next></block></next></block></next></block></statement></block></xml>
